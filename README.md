@@ -11,7 +11,7 @@ This project demonstrates how to host a static website using Amazon S3.
 
 ## Status
 
-🚧 Project in Progress
+🚧 Project Complete
 
 ## Project Architecture
 
